@@ -1,0 +1,13 @@
+h5py
+ipython
+jupyter
+jupyterlab
+matplotlib
+numpy
+pytest
+pytest-cov
+pytest-pep8
+scikit-image
+scikit-learn
+scipy
+seaborn
