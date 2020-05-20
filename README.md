@@ -1,4 +1,4 @@
-# Tensorflow Docker Container
+# Docker Setup for TensorFlow and PyTorch
 
 ## Local Port Forward
 To run a Docker container on more powerful workstation with a GPGPU, setup a
