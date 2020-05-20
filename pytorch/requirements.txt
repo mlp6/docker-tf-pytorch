@@ -2,6 +2,7 @@ h5py
 ipython
 jupyter
 jupyterlab
+jupyter_tensorboard
 matplotlib
 numpy
 pytest
